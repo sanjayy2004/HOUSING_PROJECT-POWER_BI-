@@ -125,7 +125,7 @@ Since sales performance, YOY growth, and regional/house-type comparisons all dep
 
 ## Report Snapshot (Power BI Desktop)
 
-![Snap_Overview](ADD_IMAGE_LINK_HERE)
+![HOUSE MARKET OVERVIEW](<img width="1306" height="730" alt="Image" src="https://github.com/user-attachments/assets/8f4d13ee-2f20-46b4-b1cd-c4520cdea2f6" />)
 
 ![Snap_SalesPerformance](ADD_IMAGE_LINK_HERE)
 
